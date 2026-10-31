@@ -55,7 +55,7 @@ Las salidas compartidas en Colab muestran: consulta RAG de horario de Providenci
 - [ ] Publicar repositorio en GitHub/GitLab; pegar URL de repositorio en AVA y correo docente, según indicaciones.
 
 ## Uso ético de IA
-Se debe declarar toda herramienta generativa utilizada para diagramas, edición y apoyo de código. La evaluación exige conclusiones, justificaciones y reflexiones de autoría propia; los documentos suministrados incluyen espacios para completarlas.
+Se debe declarar toda herramienta generativa utilizada para diagramas y edición. La evaluación exige conclusiones, justificaciones y reflexiones de autoría propia; los documentos suministrados incluyen espacios para completarlas.
 
 ## Referencias para consultar
 - LangChain: https://docs.langchain.com/
